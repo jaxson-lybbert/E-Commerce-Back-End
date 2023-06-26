@@ -18,7 +18,7 @@ No installation needed. A local instance of MySQL is required to run the databas
 
 ## Usage
 
-After your local instance of MySQL is set into the .env file, you can add, update, and delete products, categories, and various tags to the e-commerce database using Insomnia testing routes.
+After your local instance of MySQL is set into the .env file, you can add, update, and delete products, categories, and various tags to the e-commerce database using Insomnia testing routes. A video demo can be found [here](https://drive.google.com/file/d/1cwa_ewhaiLSr17U-Eb8pWVQJ3FPEFWTR/view).
 
 ## Contributing
 
