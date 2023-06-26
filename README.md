@@ -31,3 +31,6 @@ All routes are tested via Insomnia.
 ## Questions
 
 If you have any additional questions, feel free to contact me on Github @jaxson-lybbert, or by email: jax.a.lybb@gmail.com
+
+![image](https://github.com/jaxson-lybbert/E-Commerce-Back-End/assets/132233010/47e0ddaf-5c81-43c9-a6b8-899a65ccff5c)
+
